@@ -1,0 +1,69 @@
+body {
+    background-color: black;
+
+}
+.post {
+    background-color: white;
+    width: 30%;
+    margin: auto;
+    margin-top: 5%;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.left {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+
+}
+.right {
+    margin-right: 10px;
+}
+.html {
+    font-size: 30px;
+    
+}
+.menu {
+    font-size: 25px;
+}
+.left h1 {
+    font-size: 20px;
+}
+.letras {
+    margin-left: 10px;
+}
+.left p {
+    margin-top: -10px;
+}
+.paisaje {
+    width: 100%;  
+}
+.icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 5px;
+}
+.i1 {
+    font-size: 25px;
+    padding: 5px;
+}
+.left-down {
+    margin-left: 10px;
+}
+.right-down {
+    margin-right: 10px;
+}
+.parrafo {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'roboto';
+    
+    
+}
+.down {
+    padding-bottom: 15px;
+}
